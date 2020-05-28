@@ -36,4 +36,5 @@ public class Plate {
         System.out.println("For now its "+food+" food on the plate.");
         System.out.println();
     }
+
 }

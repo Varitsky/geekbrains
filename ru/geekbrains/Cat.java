@@ -72,4 +72,5 @@ public class Cat {
     public boolean fedUp(){ // наелся ли кот вообще
         return hunger == capacityOfCat;
     }
+
 }
